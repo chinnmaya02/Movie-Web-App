@@ -27,9 +27,8 @@ A modern movie browsing web application built using **React + Vite** that allows
 ---
 
 ## 📸 Preview
-
-![Uploading image.png…]()
-
+<img width="1841" height="924" alt="image" src="https://github.com/user-attachments/assets/b2e6b07f-b75d-427d-a90c-566b77238369" />
+<img width="1841" height="924" alt="Screenshot from 2026-01-11 14-20-00" src="https://github.com/user-attachments/assets/84bcb5a5-f5eb-4c09-a851-172dc2b81b1e" />
 
 ---
 
