@@ -55,7 +55,9 @@
 
 .movies-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  /* fixed column width so cards stay consistent even with few items */
+  grid-template-columns: repeat(auto-fit, minmax(260px, 260px));
+  justify-content: center;
   gap: 1.5rem;
   padding: 1rem;
   width: 100%;
